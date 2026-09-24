@@ -1,0 +1,7 @@
+[service]
+name=database
+command=./build/sample_server
+restart=always
+restart_delay=2
+max_restarts=0
+depends_on=

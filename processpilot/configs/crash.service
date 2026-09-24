@@ -1,0 +1,7 @@
+[service]
+name=crash
+command=./build/crash_service
+restart=always
+restart_delay=2
+max_restarts=0
+depends_on=database

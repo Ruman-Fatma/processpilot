@@ -1,0 +1,69 @@
+2026-09-24 14:13:56 [INFO] ProcessPilot daemon started
+2026-09-24 14:13:57 [INFO] Started database with PID 682
+2026-09-24 14:13:57 [INFO] Started backend with PID 683
+2026-09-24 14:13:57 [INFO] Started crash with PID 688
+2026-09-24 14:14:03 [WARN] crash (PID 688) terminated unexpectedly
+2026-09-24 14:14:03 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:14:05 [INFO] Started crash with PID 692
+2026-09-24 14:14:05 [INFO] Stopped backend
+2026-09-24 14:14:05 [INFO] Stopped database
+2026-09-24 14:14:05 [WARN] backend (PID 683) terminated unexpectedly
+2026-09-24 14:14:05 [WARN] database (PID 682) terminated unexpectedly
+2026-09-24 14:14:05 [INFO] ProcessPilot daemon stopped
+2026-09-24 14:14:27 [INFO] ProcessPilot daemon started
+2026-09-24 14:14:28 [INFO] Started database with PID 831
+2026-09-24 14:14:28 [INFO] Started backend with PID 832
+2026-09-24 14:14:28 [INFO] Started crash with PID 836
+2026-09-24 14:14:34 [WARN] crash (PID 836) terminated unexpectedly
+2026-09-24 14:14:34 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:14:36 [INFO] Started crash with PID 840
+2026-09-24 14:14:36 [INFO] Stopped backend
+2026-09-24 14:14:37 [INFO] backend stopped
+2026-09-24 14:14:37 [INFO] crash stopped
+2026-09-24 14:14:37 [INFO] database stopped
+2026-09-24 14:14:37 [INFO] ProcessPilot daemon stopped
+2026-09-24 14:26:19 [INFO] ProcessPilot daemon started
+2026-09-24 14:27:29 [INFO] Started database with PID 2133
+2026-09-24 14:27:29 [INFO] Started backend with PID 2134
+2026-09-24 14:28:12 [INFO] Started crash with PID 2220
+2026-09-24 14:28:18 [WARN] crash (PID 2220) terminated unexpectedly
+2026-09-24 14:28:18 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:28:20 [INFO] Started crash with PID 2241
+2026-09-24 14:28:26 [WARN] crash (PID 2241) terminated unexpectedly
+2026-09-24 14:28:26 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:28:28 [INFO] Started crash with PID 2259
+2026-09-24 14:28:34 [WARN] crash (PID 2259) terminated unexpectedly
+2026-09-24 14:28:34 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:28:36 [INFO] Started crash with PID 2281
+2026-09-24 14:28:42 [WARN] crash (PID 2281) terminated unexpectedly
+2026-09-24 14:28:42 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:28:44 [INFO] Started crash with PID 2299
+2026-09-24 14:28:51 [WARN] crash (PID 2299) terminated unexpectedly
+2026-09-24 14:28:51 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:28:53 [INFO] Started crash with PID 2309
+2026-09-24 14:28:59 [WARN] crash (PID 2309) terminated unexpectedly
+2026-09-24 14:28:59 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:29:01 [INFO] Started crash with PID 2327
+2026-09-24 14:29:07 [WARN] crash (PID 2327) terminated unexpectedly
+2026-09-24 14:29:07 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:29:09 [INFO] Started crash with PID 2337
+2026-09-24 14:29:15 [WARN] crash (PID 2337) terminated unexpectedly
+2026-09-24 14:29:15 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:29:17 [INFO] Started crash with PID 2355
+2026-09-24 14:29:24 [WARN] crash (PID 2355) terminated unexpectedly
+2026-09-24 14:29:24 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:29:26 [INFO] Started crash with PID 2365
+2026-09-24 14:29:31 [WARN] crash (PID 2365) terminated unexpectedly
+2026-09-24 14:29:31 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:29:33 [INFO] Started crash with PID 2384
+2026-09-24 14:29:33 [INFO] Stopped crash
+2026-09-24 14:29:34 [INFO] crash stopped
+2026-09-24 14:38:22 [INFO] Started crash with PID 3210
+2026-09-24 14:38:27 [WARN] crash (PID 3210) terminated unexpectedly
+2026-09-24 14:38:27 [INFO] Restart policy triggered for crash; restarting in 2s
+2026-09-24 14:38:29 [INFO] Started crash with PID 3229
+2026-09-24 14:38:31 [INFO] Stopped crash
+2026-09-24 14:38:31 [INFO] crash stopped
+2026-09-24 14:55:07 [INFO] backend stopped
+2026-09-24 14:55:07 [INFO] database stopped
+2026-09-24 14:55:07 [INFO] ProcessPilot daemon stopped
