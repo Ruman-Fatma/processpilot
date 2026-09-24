@@ -149,4 +149,4 @@ The goal of ProcessPilot is to demonstrate how Linux service supervision works u
 **Ruman Fatma**
 
 Computer Science & Information Technology
-ITER University, Bhubaneswar
+ITER ,SOA University, Bhubaneswar
